@@ -1,0 +1,1 @@
+Erogami is a PHP-boilerplate/framework for small websites. Erogami was built by Alexander Chau Nguyen 2014
